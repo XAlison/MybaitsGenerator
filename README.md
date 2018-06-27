@@ -1,0 +1,5 @@
+# MybaitsGenerator
+本工具可以使你非常容易及快速生成Mybatis的Java POJO文件及数据库Mapping文件。
+
+一:修改数据库连接,并在generatorConfig.xml文件配置需要生成的表
+二:运行GeneratorSqlmao.java文件就行
